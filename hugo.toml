@@ -1,0 +1,9 @@
+baseURL = "https://kumo-blog.github.io/"
+languageCode = "en-us"
+title = "Kumo"
+theme = "typo"
+
+[params]
+  showReadingTime = true
+  showWordCount = false
+  colorScheme = "auto"
